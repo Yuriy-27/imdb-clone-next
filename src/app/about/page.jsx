@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function AboutPage() {
   return (
     <div className='max-w-6xl mx-auto p-3 space-y-4'>
